@@ -1,4 +1,5 @@
 🎵 Spotify Clone
+
 This is a basic front-end clone of Spotify built using HTML, CSS, and JavaScript. It features a clean UI and essential music player functions like:
 
 🔊 Play / Pause / Next / Previous controls
@@ -10,8 +11,11 @@ This is a basic front-end clone of Spotify built using HTML, CSS, and JavaScript
 📱 Responsive layout for different screens
 
 💻 Tech Stack
+
 HTML
+
 CSS
+
 JavaScript
 
 📂 Project Structure
