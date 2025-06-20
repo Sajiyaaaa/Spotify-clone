@@ -1,6 +1,8 @@
 🎵 Spotify Clone
 
-This is a basic front-end clone of Spotify built using HTML, CSS, and JavaScript. It features a clean UI and essential music player functions like:
+As part of learning to code,I completed a project that involved creating a basic Spotify clone using HTML, CSS, and JavaScript.It is a responsive and user-friendly web application that allows users to play music.I used HTML and CSS to design and style the interface, and I implemented JavaScript to handle user input and interaction such as basic playback controls -play, pause, and next.I also gained experience working with version control tools such as Git and GitHub.
+
+ It features a clean UI and essential music player functions like:
 
 🔊 Play / Pause / Next / Previous controls
 
@@ -27,4 +29,12 @@ style.css – Styling and layout
 script.js – Music player logic and interactivity
 
 assets – Contains icons, background, album images, and animations
+
+
+
+
+
+
+
+
 
