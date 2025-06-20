@@ -15,8 +15,12 @@ CSS
 JavaScript
 
 📂 Project Structure
+
 index.html – Page structure
+
 style.css – Styling and layout
+
 script.js – Music player logic and interactivity
+
 assets – Contains icons, background, album images, and animations
 
